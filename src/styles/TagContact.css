@@ -1,0 +1,12 @@
+.container-tag{
+    position: fixed;
+    top:45%;
+    z-index:30;
+    transition: all 0.3s ease-in-out;
+}
+.on{
+left:0px
+}
+.off{
+    left:-60px
+}
